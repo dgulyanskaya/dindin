@@ -1,8 +1,6 @@
-# dindin jr.
+# dindin
 
-hello
-
-im in wu and chen with everyone
-
-boop
-
+beep boop
+ 
+ poopy
+ 
